@@ -1,0 +1,14 @@
+#wall{
+    height: 580px;
+    width: 580px;
+    background-color: rgb(207, 212, 233);
+    position: relative;
+    float: left;
+    margin-right: 10px;
+}
+#Mosquito{
+    position: relative;
+    height: 80px;
+    opacity: 0.3px;
+    
+}
